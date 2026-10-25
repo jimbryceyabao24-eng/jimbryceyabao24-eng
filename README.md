@@ -21,11 +21,6 @@ I'm a Computer Science student and an aspiring **penetration tester**. I don't h
 - **Languages:** Python, Bash, C, SQL
 - **Workflow:** Git, GitHub, VirtualBox, Markdown
 
-## 📈 My Learning Goals
-- [ ] Finish 100 rooms on TryHackMe
-- [ ] Complete the OverTheWire.com 
-- [ ] Publish 10 CTF write-ups in this GitHub
-- [ ] Build and share my own security tool
 
 ## 📫 How to reach me
 - 💼 LinkedIn: www.linkedin.com/in/jimbryce-yabao-198b40430
