@@ -1,7 +1,7 @@
 # Hi, I'm Jim bryce brent👋
 
 ## 🙋 Who am I?
-I'm a Computer Science student and an aspiring **penetration tester**. I don't have fancy certificates yet, and that's okay. I learn by doing: breaking things in labs, reading write-ups, and building my own tools. I care more about real skills than paper credentials.
+I'm a Computer Science student and an aspiring **penetration tester**. I don't have fancy certificates yet, and that's okay. I learn by doing: breaking things in labs, reading write-ups, and building my own tools. I care more about real skills than paper credintials.
 
 ## 🔭 What am I currently working on?
 - 🎯 Solving free labs and CTFs on **TryHackMe**, **Hack The Box**, **PicoCTF**, and **OverTheWire**
